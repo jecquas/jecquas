@@ -1,5 +1,4 @@
 <h4 align="left">Hi 👋, I'm Jacques</h4>
-
 <samp>
   tech stack:
   <br />
@@ -8,6 +7,9 @@
   react, react native, node, nextjs, vue, express, tailwind
   <br />
   mongodb, postgresql, mysql
+  <br />
+  <br />
+  <a href="mailto:hi@jecquas.dev">get in touch</a>
 </samp>
 <br />
 <br />
