@@ -1,4 +1,3 @@
-<h4 align="left">Hi 👋, I'm Jacques</h4>
 <samp>
   tech stack:
   <br />
@@ -14,5 +13,5 @@
 <br />
 <br />
 <p align="left">
-  <img align="left" width="100" height="20" src="https://hits-app.vercel.app/hits?url=https://github.com/jecquas&bgRight=24b6c7" />
+  <img align="left" width="0" height="0" src="https://hits-app.vercel.app/hits?url=https://github.com/jecquas&bgRight=24b6c7" />
 </p>
